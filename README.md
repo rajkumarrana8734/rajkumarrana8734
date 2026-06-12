@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajkumar+Rana;Full+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
 
+# 💫 Hi 👋, I'm Rajkumar rana
+
+-  🔭 I'm currently working on: Building scalable, responsive web applications and complex dashboard interfaces for large-scale projects.<br>
+- 👯 I'm looking to collaborate on: Open-source projects that focus on frontend architecture, UI/UX optimization, or innovative web tools.<br>
+- 💛 I'm looking for help with: Backend integration (specifically Node.js/databases) and advanced state management patterns.<br>
+- 🌱 I'm currently learning: TypeScript, Next.js, and advanced CSS animation techniques to polish my user interfaces.<br>
+- 💬 Ask me about: JavaScript (ES6+), React, Tailwind CSS, or best practices for component-based architecture.<br>
+- ⚡ Fun fact: I love finding new ways to optimize code—I once refactored a component structure that cut down loading times by 40%! Tips for customizing this:<br>
+
+- 🩵 Be Specific: If your "big projects" are in a specific niche (e.g., E-commerce, FinTech, Data Visualization), replace "large-scale projects" with that specific     industry.<br>
+- 🎉 The "Fun Fact": Don't be afraid to make this personal! If you aren't into coding optimization, mention a hobby, a favorite tech stack, or   something unique about your workflow.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_raj_571_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajkumarRa1657) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rajkumarrana8734@gmail.com) 
 
