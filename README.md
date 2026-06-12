@@ -23,6 +23,13 @@
 ![](https://streak-stats.demolab.com/?user=rajkumarrana8734&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajkumarrana8734&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajkumarrana8734&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true)
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
