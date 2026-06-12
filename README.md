@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shah+Lucky;Full+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=200&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajkumar+Rana;Full+Stack+Developer+🚀;Frontend+Developer+💻;Building+Projects+%26+Learning+Everyday)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_raj_571_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajkumarRa1657) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rajkumarrana8734@gmail.com) 
